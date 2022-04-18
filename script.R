@@ -185,7 +185,7 @@ plot_map <-
                  axis.title.x = ggplot2::element_blank(),
                  
                  strip.text.x = ggplot2::element_text(hjust = 0.5,
-                                                      color = "#616365", # #616365 = NPD, #4e4d47 = ORIG
+                                                      color = "#616365",
                                                       size = 22 * 4.5),
                  strip.background = ggplot2::element_rect(fill = NA,
                                                           colour = NA))
